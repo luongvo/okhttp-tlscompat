@@ -1,4 +1,0 @@
-include ':app'
-include ':okhttp-tlscompat'
-project(':okhttp-tlscompat').projectDir = file('../okhttp-tlscompat')
-
